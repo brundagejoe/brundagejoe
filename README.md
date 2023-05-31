@@ -1,1 +1,1 @@
-Computer Science Student at Brigham Young University with an emphasis in animation. 
+Software Engineer at Neighbor. Studied Computer Science with an emphasis in Animation at Brigham Young University.
